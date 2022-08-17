@@ -9,8 +9,8 @@ Reverse Integer
 Two sum
 
 Day 2 (leetcode):-
-Valid Palindrome
-'''Remove duplicates from sorted array
+Valid Palindrome.
+Remove duplicates from sorted array
 
 Day 3:-
 Delete Node in a linked list (codestudio)
