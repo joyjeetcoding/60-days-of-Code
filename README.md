@@ -5,12 +5,12 @@ This repository will contain the answers of the revised solved problems, i.e., I
 Today's date is 09/08/2022
 
 Day 1 (Leetcode) :- 
-Reverse Integer \n
+Reverse Integer
 Two sum
 
 Day 2 (leetcode):-
 Valid Palindrome
-Remove duplicates from sorted array
+'''Remove duplicates from sorted array
 
 Day 3:-
 Delete Node in a linked list (codestudio)
