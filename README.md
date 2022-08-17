@@ -5,7 +5,7 @@ This repository will contain the answers of the revised solved problems, i.e., I
 Today's date is 09/08/2022
 
 Day 1 (Leetcode) :- 
-Reverse Integer
+Reverse Integer \n
 Two sum
 
 Day 2 (leetcode):-
