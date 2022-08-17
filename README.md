@@ -35,3 +35,6 @@ Reverse a linked list (codestudio)
 Day 8 (Leetcode):-        
 Search a 2D Matrix     
 Spiral Matrix
+
+Day 9 (Leetcode):-   
+Sqrt (x)
