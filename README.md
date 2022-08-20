@@ -45,3 +45,8 @@ Bubble Sort
 Day 11 (Codestudio):-   
 Insertion Sort   
 Selection Sort
+
+Day 12 (Leetcode):-   
+Find Peak Element   
+Number 1 bits   
+Power of 2   
