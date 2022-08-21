@@ -50,3 +50,7 @@ Day 12 (Leetcode):-
 Find Peak Element   
 Number 1 bits   
 Power of 2   
+
+Day 13 (Leetcode):-   
+Unique No. of Occureneces   
+Reverse Words in String   
