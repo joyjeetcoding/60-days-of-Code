@@ -52,5 +52,5 @@ Number 1 bits
 Power of 2   
 
 Day 13 (Leetcode):-   
-Unique No. of Occureneces   
+Unique No. of Occurences   
 Reverse Words in String   
