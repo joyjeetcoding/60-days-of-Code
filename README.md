@@ -54,3 +54,6 @@ Power of 2
 Day 13 (Leetcode):-   
 Unique No. of Occurences   
 Reverse Words in String   
+
+Day 14 (Leetcode):-   
+Intersection of two arrays   
