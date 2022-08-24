@@ -60,3 +60,6 @@ Intersection of two arrays
 
 Day 15 (Leetcode):-   
 Move Zeroes   
+
+Day 16 (Codestudio):-   
+Sort 0 1 2   
