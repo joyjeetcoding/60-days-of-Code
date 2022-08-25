@@ -63,3 +63,7 @@ Move Zeroes
 
 Day 16 (Codestudio):-   
 Sort 0 1 2   
+
+Day 17 (leetcode) :-   
+Subtract the Product and Sum of Digits of an Integer   
+Check if All A's Appears Before All B's   
