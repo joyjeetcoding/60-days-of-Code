@@ -67,3 +67,6 @@ Sort 0 1 2
 Day 17 (leetcode) :-   
 Subtract the Product and Sum of Digits of an Integer   
 Check if All A's Appears Before All B's   
+
+Day 18 (leetcode:-   
+Remove All Occurrences of a Substring   
