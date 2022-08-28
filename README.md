@@ -73,3 +73,6 @@ Remove All Occurrences of a Substring
 
 Day 19 (Leetcode):-   
 Peak Index in a Mountain Array   
+
+Day 20 (Leetcode):-   
+Third Maximum number   
