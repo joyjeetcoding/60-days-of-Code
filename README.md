@@ -80,3 +80,5 @@ Third Maximum number
 Day 21 (Leetcode):-   
 Merge list   
 
+Day 22(Leetcode):-   
+Transpose a matrix   
