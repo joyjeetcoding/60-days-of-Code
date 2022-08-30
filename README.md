@@ -76,3 +76,7 @@ Peak Index in a Mountain Array
 
 Day 20 (Leetcode):-   
 Third Maximum number   
+
+Day 21 (Leetcode):-   
+Merge list   
+
