@@ -82,3 +82,6 @@ Merge list
 
 Day 22(Leetcode):-   
 Transpose a matrix   
+
+Day 23 (Leetcode):-   
+Find duplicates in an array   
