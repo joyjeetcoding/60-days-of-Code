@@ -92,3 +92,6 @@ Rotate Strings (using Queue)
 Day 25 (Leetcode):-   
 Reverse String II   
 
+Day 26 (GeeksforGeeks):-   
+Delete a Node in a Doubly Linked List   
+Insert at specific position in a Doubly Linked List    
