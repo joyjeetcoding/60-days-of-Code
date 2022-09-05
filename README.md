@@ -95,3 +95,6 @@ Reverse String II
 Day 26 (GeeksforGeeks):-   
 Delete a Node in a Doubly Linked List   
 Insert at specific position in a Doubly Linked List    
+
+Day 27 (Codestudio):-   
+Sparse Search   
