@@ -98,3 +98,9 @@ Insert at specific position in a Doubly Linked List
 
 Day 27 (Codestudio):-   
 Sparse Search   
+
+Day 28 (GeeksforGeeks):-   
+Reverse a doubly linked list   
+
+Day 29 (Leetcode):-   
+Middle of a Linked List   
