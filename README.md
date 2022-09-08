@@ -104,3 +104,6 @@ Reverse a doubly linked list
 
 Day 29 (Leetcode):-   
 Middle of a Linked List   
+
+Day 30 (Codestudio):-   
+Reverse list in K - Groups   
