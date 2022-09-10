@@ -107,3 +107,9 @@ Middle of a Linked List
 
 Day 30 (Codestudio):-   
 Reverse list in K - Groups   
+
+Day 31(Codestudio):-   
+Implementation of Queue using arrays   
+
+Day 32 (Codestudio):-   
+Implementation of Stack using Arrays   
