@@ -116,3 +116,6 @@ Implementation of Stack using Arrays
 
 Day 33 (Codestudio):-   
 Merge Sort   
+
+Day 34:-   
+Quick Sort   
