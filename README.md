@@ -120,3 +120,8 @@ Merge Sort
 Day 34:-   
 Quick Sort   
 Longest Palindrome Substring (Leetcode)   
+
+Day 35:-   
+   
+Day 36 (Leetcode):-   
+Rotate Array in D groups   
